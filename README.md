@@ -21,5 +21,19 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
 
 ## 🗂 Como baixar e iniciar o projeto
 
+```bash
+
+    # Clonar o repositório
+    $ git clone https://github.com/fsdavi/NLW-Ecoleta
+
+    # Entrar no diretório
+    $ cd ecoleta
+
+    # Instale as dependências
+    $ npm install
+    
+    # Iniciar o projeto
+    $ npm start
+```
 
 Desenvolvido por [Davi Santos Freire](https://www.linkedin.com/in/davisfreire/)
