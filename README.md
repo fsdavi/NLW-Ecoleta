@@ -4,7 +4,7 @@
 
 ## 🔖 Sobre
 
-O projeto **Ecoleta** foi desenvolvido durante a **Next Level Week 1.0**, e é um marketplace de coleta de resíduos. Tendo em vista a introdução no desenvolvimento web!
+O projeto **Ecoleta** foi desenvolvido durante a **Next Level Week 1.0**, e é um marketplace de coleta de resíduos. O objetivo do projeto era justamente a introdução no mundo do desenvolvimento web, utilizando ferramentas básicas mas com também alguns conceitos mais avançados da área. Logo abaixo temos as tecnologias utilizadas no projeto e alguns sites para leitura sobre os mesmos.
 
 
 ## 🚀 Tecnologias utilizadas
